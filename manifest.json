@@ -1,0 +1,23 @@
+{
+  "name": "Nokta",
+  "short_name": "Nokta",
+  "description": "Nokta is webdevelopment company",
+  "icons": [
+    {
+      "src": "/pwa/img/192.png",
+      "type": "image/png",
+      "purpose": "any maskable",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/pwa/img/512.png",
+      "type": "image/png",
+      "purpose": "any maskable",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#ec008c",
+  "background_color": "#ffffff"
+}
